@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jk3652/rces-final-project-jkim/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://binder.pangeo.io/v2/gh/jk3652/rces-final-project-jkim/master)
 
 # EESCGR6901_2019 Final Project
 
